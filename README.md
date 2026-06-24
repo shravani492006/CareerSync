@@ -1,6 +1,5 @@
 # 📊 CareerSync | Student Placement Analytics Portal
 
-[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://careersyncsite.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python\&logoColor=white)](https://python.org)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)](https://supabase.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://postgresql.org)
